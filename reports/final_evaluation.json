@@ -1,0 +1,23 @@
+{
+    "selected_model": "XGBoost",
+    "validation_results": [
+        {
+            "Model": "XGBoost",
+            "MAE": 6.316708087921143,
+            "RMSE": 8.176803588867188,
+            "sMAPE": 12.029938690907796
+        },
+        {
+            "Model": "RandomForest",
+            "MAE": 6.521868966950701,
+            "RMSE": 8.48409710478958,
+            "sMAPE": 12.337467878718043
+        }
+    ],
+    "test_results": {
+        "MAE": 5.6272993087768555,
+        "RMSE": 7.326026916503906,
+        "sMAPE": 14.126673995080195
+    },
+    "training_mode": "100000_sample_rows"
+}
